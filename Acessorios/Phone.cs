@@ -24,7 +24,7 @@ namespace sintaxeIdentacao.Acessorios
             Console.Write("Número do Chipe: ");
             Numero = Console.ReadLine();
             
-            Console.WriteLine($"Foram registrados Marca: {Marca} \n Operadora: {Operadora} \n Sistema Operacional: {SO} \n Número: {Numero}");
+            Console.WriteLine($"Foram registrados Marca: {Marca} \n Operadora: {Operadora} \n Sistema Operacional: {SO} \n Número: {Numero}.");
         }
 
     }
