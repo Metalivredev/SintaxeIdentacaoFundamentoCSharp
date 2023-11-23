@@ -1,0 +1,14 @@
+X:\PROGRAMING\CSharp\sintaxeIdentacao\bin\Debug\net8.0\sintaxeIdentacao.exe
+X:\PROGRAMING\CSharp\sintaxeIdentacao\bin\Debug\net8.0\sintaxeIdentacao.deps.json
+X:\PROGRAMING\CSharp\sintaxeIdentacao\bin\Debug\net8.0\sintaxeIdentacao.runtimeconfig.json
+X:\PROGRAMING\CSharp\sintaxeIdentacao\bin\Debug\net8.0\sintaxeIdentacao.dll
+X:\PROGRAMING\CSharp\sintaxeIdentacao\bin\Debug\net8.0\sintaxeIdentacao.pdb
+X:\PROGRAMING\CSharp\sintaxeIdentacao\obj\Debug\net8.0\sintaxeIdentacao.GeneratedMSBuildEditorConfig.editorconfig
+X:\PROGRAMING\CSharp\sintaxeIdentacao\obj\Debug\net8.0\sintaxeIdentacao.AssemblyInfoInputs.cache
+X:\PROGRAMING\CSharp\sintaxeIdentacao\obj\Debug\net8.0\sintaxeIdentacao.AssemblyInfo.cs
+X:\PROGRAMING\CSharp\sintaxeIdentacao\obj\Debug\net8.0\sintaxeIdentacao.csproj.CoreCompileInputs.cache
+X:\PROGRAMING\CSharp\sintaxeIdentacao\obj\Debug\net8.0\sintaxeIdentacao.dll
+X:\PROGRAMING\CSharp\sintaxeIdentacao\obj\Debug\net8.0\refint\sintaxeIdentacao.dll
+X:\PROGRAMING\CSharp\sintaxeIdentacao\obj\Debug\net8.0\sintaxeIdentacao.pdb
+X:\PROGRAMING\CSharp\sintaxeIdentacao\obj\Debug\net8.0\sintaxeIdentacao.genruntimeconfig.cache
+X:\PROGRAMING\CSharp\sintaxeIdentacao\obj\Debug\net8.0\ref\sintaxeIdentacao.dll
