@@ -12,3 +12,4 @@ X:\PROGRAMING\CSharp\sintaxeIdentacao\obj\Debug\net8.0\refint\sintaxeIdentacao.d
 X:\PROGRAMING\CSharp\sintaxeIdentacao\obj\Debug\net8.0\sintaxeIdentacao.pdb
 X:\PROGRAMING\CSharp\sintaxeIdentacao\obj\Debug\net8.0\sintaxeIdentacao.genruntimeconfig.cache
 X:\PROGRAMING\CSharp\sintaxeIdentacao\obj\Debug\net8.0\ref\sintaxeIdentacao.dll
+X:\PROGRAMING\CSharp\sintaxeIdentacao\obj\Debug\net8.0\sintaxeIdentacao.sourcelink.json
